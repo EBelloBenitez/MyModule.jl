@@ -1,0 +1,7 @@
+name = "MyModule"
+uuid = "ff12d57c-2001-4ca2-a881-2141a896d3e2"
+authors = ["EBelloBenitez <ebello@ing.uc3m.es>"]
+version = "0.1.0"
+
+[deps]
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
