@@ -1,5 +1,9 @@
 module MyModule
 
-greet() = print("Hello World!")
+export ω_c
 
-end # module
+function ω_c(q,B,m)
+    q*B/m
+end
+
+end
